@@ -5,7 +5,7 @@ Sou um entusiasta de tecnologia e solucionador de problemas, equilibrando meu te
 ### 🎧 Um pouco sobre mim
 
 * 🎛️ **Música e Produção:** Atuo como DJ e produtor musical. Atualmente, estou focado em produção de estúdio para redefinir e evoluir minha identidade artística.
-* 💻 **Experiencias:** Sou programador de Lua,C# e Js. Tive uma vasta experiencia programendo dentro do FiveM
+* 💻 **Experiencias:** Sou programador de Lua,C# e Js. Tive uma vasta experiencia programendo dentro do FiveM.
 * 🚗 **Projetos Paralelos:** Sou fascinado por cultura automotiva, desde preparação de motores (swaps e upgrades).
 
 ---
